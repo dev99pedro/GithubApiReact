@@ -1,0 +1,74 @@
+@media (max-width: 1100px) {
+    .erro {
+        font-size: 24px;
+    }
+
+    .container {
+        width: 80%;
+    }
+
+    .container .container-perfil {
+        flex-direction: column;
+        gap: 0;
+        margin-top: 30px;
+    }
+
+    .container-perfil-dados {
+        text-align: center;
+        padding: 10px;
+    }
+
+}
+
+
+
+
+@media (max-width: 520px) {
+    .erro {
+        font-size: 17px;
+    }
+
+
+    .div-erro > img {           
+        width: 40px;
+    }
+
+
+
+    .titulo-repositorios {
+        font-size: 13px;
+    }
+
+    .repositorios-resultado {
+        width: 180px;
+        height: 55px;
+    }
+
+    .repositorios {
+        gap: 12px;
+    }
+
+    .container-perfil>img {
+        width: 200px;
+    }
+
+    .dado-bio {
+        font-size: 17px;
+    }
+
+    .dado-login {
+        font-size: 27px;
+    }
+
+
+
+
+    .container .container-perfil {
+        gap: 0;
+        margin-top: 30px;
+    }
+
+    .container-fluid {
+        padding-bottom: 30px;
+    }
+}

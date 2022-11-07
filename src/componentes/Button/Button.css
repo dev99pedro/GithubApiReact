@@ -1,0 +1,23 @@
+.btn-primario {
+    height: 40px;
+    width: 160px;
+    cursor: pointer;
+    color: black;
+    border-radius: 12px;
+    margin-top: 20px;
+    font-size: 15px;
+    border: none;
+}
+
+.btn-primario:hover {
+    background-color: #ff6781;
+}
+
+.btn-secundario {
+    height: 40px;
+    width: 160px;
+    cursor: pointer;
+    color: black;
+    border-radius: 12px;
+    margin-top: 20px;
+}
